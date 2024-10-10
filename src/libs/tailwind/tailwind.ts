@@ -21,6 +21,10 @@ export const tailwindConfig = {
             cloud: "#F0F8FF",
             darkBackground: "#1f2937",
             darkText: "#f9fafb",
+            violetta: "#229799",
+            test: "#48CFCB",
+            nav: "#F5F5F5",
+            write: "#424242",
         },
         fontFamily: {
             sans: ["Inter", "Roboto", "system-ui", "sans-serif"],

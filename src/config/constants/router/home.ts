@@ -2,9 +2,9 @@ export default {
     main: "/",
     home: "/home",
     tiktok: "/TikTok",
-    contact: "/contact",
+    portfeille: "/portfeille",
     service: "/service",
-    PrivacyPolicy: "/privacypolicy",
+    aboutme: "/aboutme",
     TermsofService: "/termsofservice",
     ContactUs: "/contactus",
 } as const;

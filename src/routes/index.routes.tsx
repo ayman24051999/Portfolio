@@ -4,6 +4,8 @@ import homeRouter from "./home.routes";
 
 import { router as path } from "../config";
 import tiktakrouter from "./tiktak.routes";
+import portfeilleRouter from "./portfeuille.routes";
+import aboutRouter from "./aboutme.routes";
 
 // todo
 const routes: RouteObject[] = [
@@ -12,6 +14,8 @@ const routes: RouteObject[] = [
         element: <Layout />,
         children: [homeRouter, tiktakrouter],
     },
+    portfeilleRouter,
+    aboutRouter,
 ];
 
 const router = createBrowserRouter(routes);

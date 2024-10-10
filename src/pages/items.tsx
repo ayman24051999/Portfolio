@@ -17,7 +17,7 @@ function Items() {
   return (
       <div>
           <>
-              <div className='flex items-center justify-center h-screen'>
+              <div className='flex items-center justify-center '>
                   <ExpenceForm addItems={addItems} />
               </div>
               <div>
