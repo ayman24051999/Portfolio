@@ -35,6 +35,7 @@ export const tailwindConfig = {
             "84": "21rem",
             "96": "24rem",
             "128": "32rem",
+            "144": "34rem",
         },
         borderRadius: {
             lg: "0.5rem",
