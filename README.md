@@ -20,4 +20,4 @@ To get a copy of this project up and running on your local machine, follow these
 ### Installation and Setup Instructions
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Portfolio.git
+   git clone https://github.com/ayman24051999/Portfolio.git
